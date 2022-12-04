@@ -39,13 +39,13 @@ import super4 from "../assets/super4.png";
     },
   ];
 
-const SuperRare = ({}) => {
+const SuperRare = () => {
         return (<div className="super-rare">
                 <div className="title-container">
                         <h2 className="title">
                                 Super Rare
                         </h2>
-                        <p className="description">we have released 4 farts to the universe <a href="#">Opensea</a> </p>
+                        <p className="description">we have released 4 farts to the universe <a href="/#">Opensea</a> </p>
                 </div>
                 <div className="cards">
                         {

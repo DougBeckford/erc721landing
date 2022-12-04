@@ -5,7 +5,7 @@ import clients4 from "../assets/clients4.png"
 import clients5 from "../assets/clients5.png"
 
 
-const Clients = ({}) => {
+const Clients = () => {
         const data = [clients1,clients2,clients3,clients4,clients5];
         return (<div className="clients">
                 <div className="container">

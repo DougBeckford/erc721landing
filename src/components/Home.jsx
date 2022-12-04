@@ -1,6 +1,6 @@
 import home from "../assets/home.png"
 
-const Home = ({}) => {
+const Home = () => {
         return (<div className="home">
                 <div className="container">
                         <div className="content">

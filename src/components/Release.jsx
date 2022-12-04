@@ -4,7 +4,7 @@ import release2 from '../assets/release2.png'
 import Card from './Card';
 
 
-const Release = ({}) => {
+const Release = () => {
         return (<div className="releases">
                 <div className="release orange">
                         <div className="content">
@@ -14,7 +14,7 @@ const Release = ({}) => {
                                 <p className="description">we have released 4 farts to the universe  </p>
                                 <p className="description">we have released 4 farts to the universe  </p>
                                 <p className="description">we have released 4 farts to the universe  </p>
-                                <a href="#" className="link">check them out <BsArrowRight/> </a>
+                                <a href="/#" className="link">check them out <BsArrowRight/> </a>
                         </div>
                         <div className="image">
                                 <img src={release1} alt="release" />
@@ -35,7 +35,7 @@ const Release = ({}) => {
                                 <p className="description">we have released 4 farts to the universe  </p>
                                 <p className="description">we have released 4 farts to the universe  </p>
                                 <p className="description">we have released 4 farts to the universe  </p>
-                                <a href="#" className="link">check them out <BsArrowRight/> </a>
+                                <a href="/#" className="link">check them out <BsArrowRight/> </a>
                         </div>
                 </div>
 

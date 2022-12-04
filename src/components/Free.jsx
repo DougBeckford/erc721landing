@@ -3,7 +3,7 @@ import super1 from '../assets/super1.png';
 import release2 from '../assets/release2.png';
 import Card from './Card';
 
-const Free = ({}) => {
+const Free = () => {
         return (<div className='free'>
                 <div className="container">
                         <div className="background">
